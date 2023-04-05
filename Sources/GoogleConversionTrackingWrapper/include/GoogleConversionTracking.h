@@ -6,3 +6,4 @@
 //
 
 #import <GoogleConversionTracking/ACTReporter.h>
+#import "ACTReporter.h"
